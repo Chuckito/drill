@@ -1,0 +1,6 @@
+.bolinhodoce { width: 300px; height: 30px; color: #2e2e2e; font-size:40px;font-family:Pathway Gothic One;text-align:center;font-style:italic; text-transform: uppercase; position: relative; top: 40px; left: 330px; border-bottom: 1px #424242 solid }
+.bolinhodoce2 { width: 300px; height: 30px; color: #424242; font-family:Pathway Gothic One;font-size:10px;letter-spacing:4px;margin-top:-10px;text-align: center; text-transform: uppercase; position: relative; top: 50px; left: 330px }
+.bolinhodoce3 { width: 200px; height: 200px; background: url(http://i.imgur.com/jPCJiHu.png); position: relative; top: 30px; left: 350px }
+.bolinhodoce4 { width: 600px; font-family: verdana; color: #424242; font-size: 12px; text-align: justify; }
+.bolinhodoce5 { float:left; margin: 20px 5px 15px 5px; color: #424242; font-style: italic; text-transform:uppercase; font-family: cambria; font-size:60px; }
+.bolinhodoce6 { width: 300px; height: 30px; font-family:Pathway Gothic One; font-size:10px; letter-spacing:4px; margin-top:-10px; text-align: center; text-transform: uppercase; }
